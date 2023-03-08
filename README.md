@@ -4,6 +4,5 @@
 
 ### March 6th, 2023
 
-**Pinocchio: Practical VC** [Paper] 
-https://github.com/Ziye12X/Paper_Reading/blob/main/Pinocchio.pdf
+**Pinocchio: Practical VC** [Paper](https://github.com/Ziye12X/Paper_Reading/blob/main/Pinocchio.pdf)
 
